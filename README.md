@@ -1,7 +1,6 @@
 ## About
 
-Test project for Clear Solutions. All requirements are implemented. Added H2 in-memory database for easier working with entities. 
-Also added additional Entity for storing address object.
+Spring pet project.
 
 ## Usage
 
